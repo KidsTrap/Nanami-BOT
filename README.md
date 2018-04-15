@@ -13,5 +13,5 @@
   <a href="https://discordbots.org/bot/428186255398797321" >
   <img src="https://discordbots.org/api/widget/428186255398797321.svg" alt="Discord Music Bot" />
 </a>
-/p>
+</p>
 
